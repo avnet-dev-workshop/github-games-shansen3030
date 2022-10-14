@@ -1,6 +1,6 @@
 ## Welcome to GitHub Games
 
-A project based learning activity for people who are getting started with Git and GitHub.
+A project based learning activity for people who are getting started with Git and GitHub.  Test Change
 
 You can play the game at:  https://avnet-dev-workshop.github.io/github-games-shansen303://avnet-dev-workshop.github.io/github-games-shansen3030 
 
